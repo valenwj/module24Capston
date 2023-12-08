@@ -34,6 +34,8 @@ Methodology
 Results
 Next Steps
 Conclusion
+Notebook Experiments:
+Notebook Final: William Valentin Capstone Experiments.ipynb
 
 Contact Information 
 William Valentin
