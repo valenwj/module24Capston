@@ -15,6 +15,7 @@ The primary research question addressed in this study is: "What level of accurac
 
 Data Sources
 The primary data source for this study is the News Category Dataset, accessible through Kaggle. This dataset encompasses a diverse range of news articles, each associated with attributes such as category, headline, authors, link, short description, and publication date.
+https://www.kaggle.com/datasets/rmisra/news-category-dataset
 
 Methodology
 The methodology employed in this study revolves around utilizing NLP techniques to preprocess and analyze the text data. Initially, the headline and short description of each article are tokenized, with subsequent steps including the removal of stop words, punctuation, and capitalization, along with lemmatization. The LabelEncoder is applied to categorical labels, and TF-IDF vectorization is utilized to transform the text data into numerical features. Various machine learning models, including Random Forest, Logistic Regression, Decision Tree, Multinomial Naive Bayes, and Ensemble methods, are explored to classify news articles into categories. Model performance is assessed using metrics such as accuracy, precision, recall, and F1-score.
@@ -34,8 +35,11 @@ Methodology
 Results
 Next Steps
 Conclusion
-Notebook Experiments:
-Notebook Final: William Valentin Capstone Experiments.ipynb
+
+Notebooks:
+
+Notebook Experiments: William Valentin Capstone Experiments.ipynb
+Notebook Final: William Valentin Capstone Final.ipynb
 
 Contact Information 
 William Valentin
